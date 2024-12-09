@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06e643af06f4cfb43ba4242db4b6c0df, type: 3}
+  m_Name: diyalog 5
+  m_EditorClassIdentifier: 
+  metin: "kedi : o zaman k\xF6peklere dikkat et"
+  sprite: {fileID: 21300000, guid: c0774dcc2173f30428cd343a2e7df9a9, type: 3}
+  ses: {fileID: 8300000, guid: aae7c2b33b0d1f34a9fcf7be5122f147, type: 3}

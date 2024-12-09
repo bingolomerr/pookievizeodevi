@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06e643af06f4cfb43ba4242db4b6c0df, type: 3}
+  m_Name: diyalog 3
+  m_EditorClassIdentifier: 
+  metin: "hi\xE7 bir\u015Fey poki i\xE7in eskisi gibi olmayacakt\u0131"
+  sprite: {fileID: 21300000, guid: e80617514d07dc44dab5fb4f59f5567c, type: 3}
+  ses: {fileID: 8300000, guid: c1800b1e452724a4faebf7a2e3f6c851, type: 3}
