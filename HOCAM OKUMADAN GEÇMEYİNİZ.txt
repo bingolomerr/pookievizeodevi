@@ -1,0 +1,4 @@
+Hocam selamlar dosya boyutu yüksek olduğu için (1.8GB) 100mb şeklinde birkaç defa klasör açarak ilerledim "PackageCache" dosyasında hata verdi.Git LFS ile denedim yine hata verdi.Birkaç alternatif yol denedim tekrardan hata verdi.Yükleyebildiğim max dosya bu şekilde.Tüm dosyalar mevcut olup atamadığım tek klasör "PackageCache" klasörü oldu.Proje dosyasının cloud linkini aşağıya bırakıyorum.
+
+
+BÜYÜK DOSYA LİNKİ:https://drive.google.com/file/d/1-4hZEZ2GN8GISA6XhJmqqw1x4rvYFSf7/view
